@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: WooCommerce Gateway Tbc
+* Plugin Name: WooCommerce TBC Payment Gateway
 * Plugin URI:  http://weare.de.com/
 * Description: WooCommerce credit card payments with Tbc bank gateway
 * Version:     1.0.0
