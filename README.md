@@ -5,7 +5,7 @@
 #### This section describes how to install the plugin and get it working.
 
 1. run`composer install` in the root dir
-2. Upload the plugin files to the `/wp-content/plugins/` directory
+2. Upload the plugin files to the `/wp-content/plugins/woo-tbc-payment-gateway` directory
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Go to WooCommerce -> Settings -> Checkout -> Tbc and fill out required settings
 4. Bank provides certificate in .p12 format,to transform it into .pem use this command: `openssl pkcs12 -in *.p12 -out tbcpay.pem`
