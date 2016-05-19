@@ -1,6 +1,7 @@
 # WooCommerce TBC Payment Gateway
 
-**Important** This is for developers only. If you want to use this plugin in production please download it from wordpress.org
+**Important!** This is for developers only.
+If you want to use this plugin in production please download it from wordpress.org
 
 #### This section describes how to install the plugin and get it working.
 
