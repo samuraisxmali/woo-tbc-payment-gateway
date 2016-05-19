@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wearede/tbcpay-php": "dev-master",
+        "alcohol/iso4217": "^3.1"
+    }
+}
